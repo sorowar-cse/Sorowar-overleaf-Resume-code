@@ -1,0 +1,134 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.28)  4 AUG 2023 11:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./resume.tex
+(resume.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (russell.cls
+Document Class: russell 2017/02/05 v1.6.1 russell Curriculum Vitae Class
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.c
+lo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box51
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box52
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enum
+item.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks17
+\labelindent=\skip51
+\enit@outerparindent=\dimen141
+\enit@toks=\toks18
+\enit@inbox=\box53
+\enit@count@id=\count193
+\enitdp@description=\count194
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragg
+ed2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
+x.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks20
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.cfg))
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fanc
+yhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen150
+\stockheight=\dimen151
+)
+(C:\Users\COMPUTER GARDEN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
+color.
